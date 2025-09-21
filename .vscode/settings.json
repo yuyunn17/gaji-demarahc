@@ -1,12 +1,3 @@
 {
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "files.autoSave": "onFocusChange",
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact"
-  ],
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  }
+    
 }
