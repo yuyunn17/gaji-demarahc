@@ -1,4 +1,3 @@
-// src/pages/Gaji.js
 import React, { useState } from "react";
 
 // === Modal Tambah/Edit Tindakan === //

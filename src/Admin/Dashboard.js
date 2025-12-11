@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import SidebarKaryawan from "../components/SidebarAdmin";
 import { Bar } from "react-chartjs-2";
 import {
   Chart as ChartJS,
